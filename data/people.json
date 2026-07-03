@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "title": "شجرة العائلة",
+    "subtitle": "إرث عائلي — سير وذكريات",
+    "rootId": "ahmad_alsaad",
+    "familyName": "ناصر",
+    "lastUpdated": "2026-07-04"
+  },
+  "people": [
+    {
+      "id": "ahmad_alsaad",
+      "gender": "male",
+      "firstName": "أحمد",
+      "fatherName": "عبدالعزيز",
+      "grandfatherName": "مقبل",
+      "birthYear": 1920,
+      "deathYear": 1995,
+      "alive": false,
+      "bio": "المؤسس الأول لهذه الشجرة. عاش حياته في نجد قبل أن ينتقل مع أبنائه إلى الرياض في منتصف القرن الماضي بحثًا عن العمل والتعليم. عُرف بين معارفه بالكرم الشديد وحل الخلافات بين الأقارب بالحكمة، وترك بعده أبناءً حرصوا على أن يبقوا مجتمعين.",
+      "achievements": [
+        "عمل في التجارة لأكثر من ثلاثين عامًا",
+        "شارك في بناء أول مسجد بحيّه"
+      ],
+      "children": [
+        "khalid_bin_ahmad",
+        "faisal_bin_ahmad",
+        "saud_bin_ahmad",
+        "munira_bint_ahmad",
+        "ibrahim_bin_ahmad"
+      ],
+      "spouses": [
+        "noura_alotaibi_wife_of_ahmad",
+        "fatimah_alduraibi_wife_of_ahmad"
+      ]
+    },
+    {
+      "id": "noura_alotaibi_wife_of_ahmad",
+      "gender": "female",
+      "firstName": "نورة",
+      "fatherName": "عبدالرحمن",
+      "grandfatherName": "",
+      "familyName": "معاذ",
+      "birthYear": 1925,
+      "deathYear": 2000,
+      "alive": false,
+      "bio": "زوجة أحمد الأولى ووالدة أبنائه الأربعة الكبار. تذكرها العائلة بحفظها للأشعار الشعبية وحرصها على جمع الأبناء وأحفادها كل خميس على العشاء.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "fatimah_alduraibi_wife_of_ahmad",
+      "gender": "female",
+      "firstName": "فاطمة",
+      "fatherName": "سليمان",
+      "grandfatherName": "",
+      "familyName": "سالم",
+      "birthYear": 1930,
+      "deathYear": 2005,
+      "alive": false,
+      "bio": "زوجة أحمد الثانية، تزوجها بعد سنوات من زواجه الأول، وأنجبت له ابنه إبراهيم.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "khalid_bin_ahmad",
+      "gender": "male",
+      "firstName": "خالد",
+      "fatherName": "أحمد",
+      "grandfatherName": "عبدالعزيز",
+      "birthYear": 1946,
+      "deathYear": 2019,
+      "alive": false,
+      "bio": "الابن البكر لأحمد. عمل معلمًا لعقود طويلة قبل أن يتفرغ للعمل الزراعي في مزرعة العائلة، وكان مرجعًا لإخوته في أي قرار مهم.",
+      "achievements": [],
+      "stories": [
+        {
+          "title": "قصة زواجه من هيا",
+          "narrator": "روتها ابنته سارة",
+          "text": "تزوج خالد من هيا راشد بعد تعارف بين العائلتين استمر سنة كاملة، وكان زواجًا يُضرب به المثل في الوفاق بين الأسرتين."
+        }
+      ],
+      "children": [
+        "abdullah_bin_khalid",
+        "majed_bin_khalid",
+        "sara_bint_khalid"
+      ],
+      "spouses": [
+        "haya_alharbi_wife_of_khalid"
+      ]
+    },
+    {
+      "id": "haya_alharbi_wife_of_khalid",
+      "gender": "female",
+      "firstName": "هيا",
+      "fatherName": "محمد",
+      "grandfatherName": "",
+      "familyName": "راشد",
+      "birthYear": 1950,
+      "deathYear": 2022,
+      "alive": false,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "faisal_bin_ahmad",
+      "gender": "male",
+      "firstName": "فيصل",
+      "fatherName": "أحمد",
+      "grandfatherName": "عبدالعزيز",
+      "birthYear": 1949,
+      "deathYear": null,
+      "alive": true,
+      "bio": "من أوائل من التحق بالجامعة في العائلة، وعمل بعدها في القطاع الحكومي حتى تقاعده. معروف بمتابعته الدائمة لأخبار أحفاده وأحفاد إخوانه جميعًا دون تفريق.",
+      "achievements": [],
+      "children": [
+        "turki_bin_faisal",
+        "sara_bint_faisal",
+        "nourah_bint_faisal"
+      ],
+      "spouses": [
+        "mona_alqahtani_wife_of_faisal"
+      ]
+    },
+    {
+      "id": "mona_alqahtani_wife_of_faisal",
+      "gender": "female",
+      "firstName": "منى",
+      "fatherName": "عبدالله",
+      "grandfatherName": "",
+      "familyName": "بندر",
+      "birthYear": 1953,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "saud_bin_ahmad",
+      "gender": "male",
+      "firstName": "سعود",
+      "fatherName": "أحمد",
+      "grandfatherName": "عبدالعزيز",
+      "birthYear": 1952,
+      "deathYear": 2021,
+      "alive": false,
+      "bio": "عمل في التجارة كوالده، وافتتح محلًا تجاريًا صغيرًا توسّع لاحقًا ليديره أبناؤه من بعده.",
+      "achievements": [],
+      "children": [
+        "fahad_bin_saud",
+        "yousef_bin_saud"
+      ],
+      "spouses": [
+        "reem_aldosari_wife_of_saud"
+      ]
+    },
+    {
+      "id": "reem_aldosari_wife_of_saud",
+      "gender": "female",
+      "firstName": "ريم",
+      "fatherName": "ناصر",
+      "grandfatherName": "",
+      "familyName": "سلطان",
+      "birthYear": 1956,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "munira_bint_ahmad",
+      "gender": "female",
+      "firstName": "منيرة",
+      "fatherName": "أحمد",
+      "grandfatherName": "عبدالعزيز",
+      "birthYear": 1954,
+      "deathYear": null,
+      "alive": true,
+      "bio": "تزوجت من خارج العائلة من سليمان بن فهد صالح، ولم تُسجَّل ذريتها هنا وفق قاعدة تسجيل الأبناء تحت اسم عائلة الأب.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "ibrahim_bin_ahmad",
+      "gender": "male",
+      "firstName": "إبراهيم",
+      "fatherName": "أحمد",
+      "grandfatherName": "عبدالعزيز",
+      "birthYear": 1958,
+      "deathYear": 2016,
+      "alive": false,
+      "bio": "الابن الوحيد من زوجة أحمد الثانية فاطمة. عاش معظم حياته خارج الرياض ولم يُعرف عنه الكثير لدى فرع العائلة الأكبر.",
+      "achievements": [],
+      "children": [],
+      "spouses": [],
+      "motherId": "fatimah_alduraibi_wife_of_ahmad"
+    },
+    {
+      "id": "abdullah_bin_khalid",
+      "gender": "male",
+      "firstName": "عبدالله",
+      "fatherName": "خالد",
+      "grandfatherName": "أحمد",
+      "birthYear": 1974,
+      "deathYear": null,
+      "alive": true,
+      "bio": "تزوج ابنة عمه سارة بنت فيصل، وعمل مهندسًا مدنيًا أشرف على عدد من المشاريع السكنية في الرياض.",
+      "achievements": [
+        "حصل على بكالوريوس الهندسة المدنية من جامعة الملك سعود عام 1997"
+      ],
+      "children": [
+        "khalid_bin_abdullah",
+        "nouf_bint_abdullah"
+      ],
+      "spouses": [
+        "sara_bint_faisal"
+      ]
+    },
+    {
+      "id": "majed_bin_khalid",
+      "gender": "male",
+      "firstName": "ماجد",
+      "fatherName": "خالد",
+      "grandfatherName": "أحمد",
+      "birthYear": 1977,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [
+        "omar_bin_majed",
+        "haifa_bint_majed"
+      ],
+      "spouses": [
+        "lulwa_alzahrani_wife_of_majed"
+      ]
+    },
+    {
+      "id": "lulwa_alzahrani_wife_of_majed",
+      "gender": "female",
+      "firstName": "لولوة",
+      "fatherName": "سعد",
+      "grandfatherName": "",
+      "familyName": "ياسر",
+      "birthYear": 1980,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "sara_bint_khalid",
+      "gender": "female",
+      "firstName": "سارة",
+      "fatherName": "خالد",
+      "grandfatherName": "أحمد",
+      "birthYear": 1980,
+      "deathYear": null,
+      "alive": true,
+      "bio": "تزوجت من خارج العائلة من طلال غالب واستقرت في الدمام.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "turki_bin_faisal",
+      "gender": "male",
+      "firstName": "تركي",
+      "fatherName": "فيصل",
+      "grandfatherName": "أحمد",
+      "birthYear": 1975,
+      "deathYear": null,
+      "alive": true,
+      "bio": "عمل في القطاع المصرفي لسنوات طويلة، ويحرص على حضور كل مناسبات العائلة.",
+      "achievements": [],
+      "photo": "photos/placeholder-avatar.svg",
+      "children": [
+        "faisal_bin_turki",
+        "nora_bint_turki"
+      ],
+      "spouses": [
+        "hind_almutairi_wife_of_turki"
+      ]
+    },
+    {
+      "id": "hind_almutairi_wife_of_turki",
+      "gender": "female",
+      "firstName": "هند",
+      "fatherName": "سعد",
+      "grandfatherName": "",
+      "familyName": "حمد",
+      "birthYear": 1978,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "sara_bint_faisal",
+      "gender": "female",
+      "firstName": "سارة",
+      "fatherName": "فيصل",
+      "grandfatherName": "أحمد",
+      "birthYear": 1978,
+      "deathYear": null,
+      "alive": true,
+      "bio": "تزوجت ابن عمها عبدالله بن خالد، وهو زواج جمع الفرعين مجددًا بعد جيلين من الافتراق.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "nourah_bint_faisal",
+      "gender": "female",
+      "firstName": "نورة",
+      "fatherName": "فيصل",
+      "grandfatherName": "أحمد",
+      "birthYear": 1981,
+      "deathYear": null,
+      "alive": true,
+      "bio": "تزوجت من خارج العائلة من ماجد سند واستقرت في جدة.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "fahad_bin_saud",
+      "gender": "male",
+      "firstName": "فهد",
+      "fatherName": "سعود",
+      "grandfatherName": "أحمد",
+      "birthYear": 1979,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [
+        "saud_bin_fahad"
+      ],
+      "spouses": [
+        "asma_alghamdi_wife_of_fahad"
+      ]
+    },
+    {
+      "id": "asma_alghamdi_wife_of_fahad",
+      "gender": "female",
+      "firstName": "أسماء",
+      "fatherName": "خالد",
+      "grandfatherName": "",
+      "familyName": "ثامر",
+      "birthYear": 1982,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "yousef_bin_saud",
+      "gender": "male",
+      "firstName": "يوسف",
+      "fatherName": "سعود",
+      "grandfatherName": "أحمد",
+      "birthYear": 1983,
+      "deathYear": null,
+      "alive": true,
+      "bio": "يعمل طبيبًا في أحد المستشفيات الحكومية، ولم يتزوج بعد.",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "khalid_bin_abdullah",
+      "gender": "male",
+      "firstName": "خالد",
+      "fatherName": "عبدالله",
+      "grandfatherName": "خالد",
+      "birthYear": 2000,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [
+        "fahad_bin_khalid_abdullah"
+      ],
+      "spouses": [
+        "dana_alshehri_wife_of_khalid"
+      ]
+    },
+    {
+      "id": "dana_alshehri_wife_of_khalid",
+      "gender": "female",
+      "firstName": "دانة",
+      "fatherName": "سعيد",
+      "grandfatherName": "",
+      "familyName": "نايف",
+      "birthYear": 2002,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "nouf_bint_abdullah",
+      "gender": "female",
+      "firstName": "نوف",
+      "fatherName": "عبدالله",
+      "grandfatherName": "خالد",
+      "birthYear": 2003,
+      "deathYear": null,
+      "alive": true,
+      "bio": "صممت موقع عائلة ناصر ليكون أرشيفًا رقميًا لقصص العائلة وذكرياتها.",
+      "achievements": [
+        "صممت موقع عائلة ناصر الإلكتروني"
+      ],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "omar_bin_majed",
+      "gender": "male",
+      "firstName": "عمر",
+      "fatherName": "ماجد",
+      "grandfatherName": "خالد",
+      "birthYear": 2001,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [
+        "majed_bin_omar"
+      ],
+      "spouses": [
+        "reema_alqarni_wife_of_omar"
+      ]
+    },
+    {
+      "id": "reema_alqarni_wife_of_omar",
+      "gender": "female",
+      "firstName": "ريما",
+      "fatherName": "فهد",
+      "grandfatherName": "",
+      "familyName": "فارس",
+      "birthYear": 2003,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "haifa_bint_majed",
+      "gender": "female",
+      "firstName": "هيفاء",
+      "fatherName": "ماجد",
+      "grandfatherName": "خالد",
+      "birthYear": 2004,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "faisal_bin_turki",
+      "gender": "male",
+      "firstName": "فيصل",
+      "fatherName": "تركي",
+      "grandfatherName": "فيصل",
+      "birthYear": 1999,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "nora_bint_turki",
+      "gender": "female",
+      "firstName": "نورا",
+      "fatherName": "تركي",
+      "grandfatherName": "فيصل",
+      "birthYear": 2002,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "saud_bin_fahad",
+      "gender": "male",
+      "firstName": "سعود",
+      "fatherName": "فهد",
+      "grandfatherName": "سعود",
+      "birthYear": 2003,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "fahad_bin_khalid_abdullah",
+      "gender": "male",
+      "firstName": "فهد",
+      "fatherName": "خالد",
+      "grandfatherName": "عبدالله",
+      "birthYear": 2024,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    },
+    {
+      "id": "majed_bin_omar",
+      "gender": "male",
+      "firstName": "ماجد",
+      "fatherName": "عمر",
+      "grandfatherName": "ماجد",
+      "birthYear": 2023,
+      "deathYear": null,
+      "alive": true,
+      "bio": "لم يتم كتابة المحتوى حتى الآن",
+      "achievements": [],
+      "children": [],
+      "spouses": []
+    }
+  ]
+}

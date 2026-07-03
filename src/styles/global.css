@@ -1,0 +1,102 @@
+:root {
+  --color-text: #4a4a4a;
+  --color-card-border: #d4d4d4;
+  --color-male-bg: #e9f6f6;
+  --color-female-bg: #fff4f4;
+  --color-male-dot: #5f9e91;
+  --color-female-dot: #b8607a;
+  --color-panel-bg: #ffffff;
+  --color-app-bg: #f7f6f4;
+  --color-accent: #b08968;
+  --color-selected: #b08968;
+  --font-family: "Tajawal", "Segoe UI", sans-serif;
+  /* يجب أن تطابق CARD_WIDTH/CARD_HEIGHT في src/utils/layout.ts */
+  --card-width: 176px;
+  --card-height: 88px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--color-text);
+  background: var(--color-app-bg);
+}
+
+button,
+input {
+  font-family: inherit;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  background: var(--color-panel-bg);
+  border-bottom: 1px solid var(--color-card-border);
+  z-index: 5;
+}
+
+.app-header .header-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.app-header h1 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.app-header .subtitle {
+  font-size: 0.85rem;
+  color: #8a8a8a;
+  margin: 0;
+}
+
+.app-header .last-updated {
+  font-size: 0.68rem;
+  color: #c3c3c3;
+  white-space: nowrap;
+}
+
+.app-body {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .app-header {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px 14px;
+    gap: 8px;
+  }
+
+  .app-header .header-title {
+    flex: none;
+  }
+
+  .app-header .last-updated {
+    order: 3;
+    text-align: center;
+  }
+}
